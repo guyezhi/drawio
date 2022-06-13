@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-13T10:14:01.611Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="rFIGMJrqLKiJcVbi3Md6" version="19.0.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-06-13T10:16:04.556Z" agent="5.0 (Macintosh; Intel Mac OS X 10_16_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.135 Safari/537.36" etag="-JSSdMfGgHjXCZsCAIYK" version="19.0.0" type="github" pages="2">
   <diagram id="CK5jT10rr-_N4nWXyFcZ" name="商品凭证-泳道图">
     <mxGraphModel dx="1358" dy="732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -68,14 +68,29 @@
             <mxPoint x="494.37" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EPNivSUScdkDFhF8pKsd-1" value="x 二期" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#FF0000;" vertex="1" connectable="0" parent="vjfmEweE_3btuZ8AtWeE-33">
+          <mxGeometry x="0.1043" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vjfmEweE_3btuZ8AtWeE-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="gmWAM6frCMXmDmfekaVd-11" source="vjfmEweE_3btuZ8AtWeE-19" target="vjfmEweE_3btuZ8AtWeE-28">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPNivSUScdkDFhF8pKsd-4" value="x 二期" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#FF0000;" vertex="1" connectable="0" parent="vjfmEweE_3btuZ8AtWeE-44">
+          <mxGeometry x="0.0649" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="vjfmEweE_3btuZ8AtWeE-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="gmWAM6frCMXmDmfekaVd-11" source="vjfmEweE_3btuZ8AtWeE-30" target="gmWAM6frCMXmDmfekaVd-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vjfmEweE_3btuZ8AtWeE-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;" edge="1" parent="gmWAM6frCMXmDmfekaVd-11" source="vjfmEweE_3btuZ8AtWeE-30" target="vjfmEweE_3btuZ8AtWeE-47">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EPNivSUScdkDFhF8pKsd-5" value="x 二期" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;fontColor=#FF0000;" vertex="1" connectable="0" parent="vjfmEweE_3btuZ8AtWeE-48">
+          <mxGeometry x="0.1347" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="gmWAM6frCMXmDmfekaVd-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;" parent="gmWAM6frCMXmDmfekaVd-11" source="gmWAM6frCMXmDmfekaVd-46" target="gmWAM6frCMXmDmfekaVd-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
